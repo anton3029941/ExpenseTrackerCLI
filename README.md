@@ -2,7 +2,8 @@
 
 ## Description
 
-Expense Tracker CLI is a command-line application for managing personal finances. It allows users to add, delete, update, and analyze expenses, as well as set a budget.
+Expense Tracker CLI is a command-line application for managing personal finances. It allows users to add, delete, update, and analyze expenses, as well as set a budget.  
+Made for roadmap.sh project -- https://roadmap.sh/projects/expense-tracker
 
 ## Installation
 
